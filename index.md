@@ -14,9 +14,12 @@ title: 我的个人博客
 - [如何在Docker中安装MQ](/posts/install-mq-in-docker)
 - [解决Docker中的内存限制问题](/posts/resolve-memory-limit-in-docker)
 
-## 联系我
+# 我的联系方式
 
-如果你有任何问题或者想要讨论技术，欢迎通过[电子邮件](fyllinux@163.com)联系我。
+有任何问题或建议，请通过邮件联系我：
+
+- [发邮件给我](mailto:your-email@example.com)
+
 
 ---
 
