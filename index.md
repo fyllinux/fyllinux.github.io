@@ -18,7 +18,7 @@ title: 我的个人博客
 
 有任何问题或建议，请通过邮件联系我：
 
-- [发邮件给我](mailto:your-email@example.com)
+- [发邮件给我](mailto:fyllinux@163.com)
 
 
 ---
